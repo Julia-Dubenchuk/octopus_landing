@@ -1,0 +1,23 @@
+<svg width="1758" height="471" viewBox="0 0 1758 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>cloud</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-19 -2142)">
+<g id="cloud" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(39 2162)" fill="#FFFFFF"/>
+<use xlink:href="#path1_fill" transform="translate(39 2162)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="19" y="2142" width="1758" height="471" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="30" dy="30"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 594 43C 594 19.2518 574.748 0 551 0L 83 0C 37.1604 0 0 37.1604 0 83C 0 128.84 37.1604 166 83 166L 437.5 166C 465.943 166 489 189.057 489 217.5C 489 245.943 512.057 269 540.5 269L 653.759 269C 681.925 269 704.759 291.833 704.759 320C 704.759 348.167 727.592 371 755.759 371L 1318.23 371C 1357.26 371 1388.9 339.361 1388.9 300.333C 1388.9 261.305 1357.26 229.667 1318.23 229.667L 1147.83 229.667C 1108.16 229.667 1076 197.506 1076 157.833C 1076 118.161 1043.84 86 1004.17 86L 637 86C 613.252 86 594 66.7482 594 43Z"/>
+<path id="path1_fill" d="M 1110 93C 1110 59.8629 1136.86 33 1170 33L 1598 33C 1631.14 33 1658 59.8629 1658 93C 1658 126.137 1631.14 153 1598 153L 1170 153C 1136.86 153 1110 126.137 1110 93Z"/>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="542" height="794" viewBox="0 0 542 794" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Union</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(77 58)">
+<g id="Union" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(-309 -38)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-329" y="-58" width="794" height="794" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="30" dy="30"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" fill-rule="evenodd" d="M 347 80C 313.089 80 280.71 86.3041 250.927 97.7945C 230.317 105.746 205.954 99.3936 195 80.2091C 184.046 61.0245 190.65 36.3551 210.971 27.6887C 252.773 9.86062 298.771 0 347 0C 538.643 0 694 155.357 694 347C 694 538.643 538.643 694 347 694C 155.357 694 0 538.643 0 347C 0 321.237 2.8143 296.097 8.16112 271.882C 12.9244 250.311 35.9523 239.271 56.8275 246.5C 77.7026 253.729 88.4425 276.505 84.4367 298.23C 81.5245 314.023 80 330.321 80 347C 80 494.46 199.54 614 347 614C 494.46 614 614 494.46 614 347C 614 199.54 494.46 80 347 80ZM 347 210.288C 271.496 210.288 210.288 271.496 210.288 347C 210.288 408.791 251.281 461.007 307.556 477.936C 328.711 484.3 347 501.621 347 523.712C 347 545.804 328.929 564.098 307.209 560.067C 206.527 541.382 130.288 453.095 130.288 347C 130.288 227.313 227.313 130.288 347 130.288C 453.094 130.288 541.382 206.527 560.067 307.209C 564.098 328.929 545.804 347 523.712 347C 501.621 347 484.3 328.711 477.936 307.556C 461.007 251.281 408.791 210.288 347 210.288ZM 347 396.599C 319.607 396.599 297.401 374.393 297.401 347C 297.401 319.607 319.607 297.401 347 297.401C 374.393 297.401 396.599 319.607 396.599 347C 396.599 374.393 374.393 396.599 347 396.599Z"/>
+</defs>
+</svg>

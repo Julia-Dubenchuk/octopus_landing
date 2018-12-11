@@ -1,0 +1,31 @@
+<svg width="1186" height="1057" viewBox="0 0 1186 1057" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>analityc</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-657 102)">
+<g id="analityc" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(677.497 -82.0008)" fill="#FFFFFF"/>
+<use xlink:href="#path1_fill" transform="translate(677.497 -82.0008)" fill="#FFFFFF"/>
+<use xlink:href="#path2_fill" transform="translate(677.497 -82.0008)" fill="#FFFFFF"/>
+<use xlink:href="#path3_fill" transform="translate(677.497 -82.0008)" fill="#FFFFFF"/>
+<use xlink:href="#path4_fill" transform="translate(677.497 -82.0008)" fill="#FFFFFF"/>
+<use xlink:href="#path5_fill" transform="translate(677.497 -82.0008)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="657" y="-103" width="1329" height="1058" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="30" dy="30"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 258.503 732.501C 258.503 698.535 286.038 671.001 320.003 671.001C 353.969 671.001 381.503 698.535 381.503 732.501L 381.503 861.501C 381.503 895.466 353.969 923.001 320.003 923.001C 286.038 923.001 258.503 895.466 258.503 861.501L 258.503 732.501Z"/>
+<path id="path1_fill" d="M 422.503 668.501C 422.503 634.535 450.038 607.001 484.003 607.001C 517.969 607.001 545.503 634.535 545.503 668.501L 545.503 813.501C 545.503 847.466 517.969 875.001 484.003 875.001C 450.038 875.001 422.503 847.466 422.503 813.501L 422.503 668.501Z"/>
+<path id="path2_fill" d="M 586.503 550.501C 586.503 516.535 614.038 489.001 648.003 489.001C 681.969 489.001 709.503 516.535 709.503 550.501L 709.503 895.501C 709.503 929.466 681.969 957.001 648.003 957.001C 614.038 957.001 586.503 929.466 586.503 895.501L 586.503 550.501Z"/>
+<path id="path3_fill" d="M 765.503 634.501C 765.503 600.535 793.038 573.001 827.003 573.001C 860.969 573.001 888.503 600.535 888.503 634.501L 888.503 813.501C 888.503 847.466 860.969 875.001 827.003 875.001C 793.038 875.001 765.503 847.466 765.503 813.501L 765.503 634.501Z"/>
+<path id="path4_fill" d="M 943.503 413.501C 943.503 379.535 971.038 352.001 1005 352.001C 1038.97 352.001 1066.5 379.535 1066.5 413.501L 1066.5 756.501C 1066.5 790.466 1038.97 818.001 1005 818.001C 971.038 818.001 943.503 790.466 943.503 756.501L 943.503 413.501Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 1218.46 14.07C 1232.78 30.8906 1230.75 56.136 1213.93 70.4572C 1208.61 74.9936 1203.14 79.6451 1197.56 84.3984C 1073.11 190.361 889.307 346.869 816.39 404.816C 804.212 414.494 787.527 416.234 773.615 409.278C 738.008 391.475 710.215 377.39 683.539 363.864L 681.072 362.614C 661.656 352.769 642.738 343.177 621.663 332.582L 63.2951 732.52C 45.3355 745.384 20.348 741.253 7.48417 723.293C -5.3797 705.333 -1.24871 680.346 16.711 667.482L 594.711 253.482C 606.772 244.843 622.623 243.589 635.892 250.224C 666.35 265.453 691.435 278.172 717.202 291.237L 719.717 292.512C 740.333 302.965 761.527 313.707 786.446 326.224C 868.089 259.86 1031.88 120.398 1146.66 22.6632C 1151.91 18.1996 1157.05 13.823 1162.07 9.54435C 1178.89 -4.77682 1204.14 -2.75062 1218.46 14.07Z"/>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="714" height="659" viewBox="0 0 714 659" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>mac</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(77 -1161)">
+<g id="mac" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(-126 1181)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-146" y="1161" width="783" height="659" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="30" dy="30"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 20C 0 8.95431 8.95431 0 20 0L 663 0C 674.046 0 683 8.95431 683 20L 683 438C 683 449.046 674.046 458 663 458L 433 458C 421.954 458 413 466.954 413 478L 413 511C 413 522.046 421.954 531 433 531L 503 531C 510.732 531 517 537.268 517 545C 517 552.732 510.732 559 503 559L 180 559C 172.268 559 166 552.732 166 545C 166 537.268 172.268 531 180 531L 250 531C 261.046 531 270 522.046 270 511L 270 478C 270 466.954 261.046 458 250 458L 20 458C 8.95431 458 0 449.046 0 438L 0 20Z"/>
+</defs>
+</svg>
